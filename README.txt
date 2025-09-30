@@ -1,3 +1,10 @@
+
+#!DISCLAIMER!#
+
+#THIS IS A TEST THAT WAS CONDUCTED TO TEST FOR GIT EXERCIES#
+
+#ALL ITEMS WAS OBTAINED FROM HTML5UP#
+
 Strongly Typed by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
